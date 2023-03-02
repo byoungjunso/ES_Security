@@ -8,4 +8,5 @@
     - Auditbeat, ELK Stack 을 활용한 사용자 별 명령어 수행 이력 감시
   
  - 프로젝트 구성도
- ![audit_archi drawio](https://user-images.githubusercontent.com/86950682/220281594-a37651ae-4e5b-43f1-a970-e0e62072cf04.png)
+
+![audit_archi drawio (2)](https://user-images.githubusercontent.com/86950682/222367386-913247d2-c7fa-4178-8668-6535bc41141e.png)
